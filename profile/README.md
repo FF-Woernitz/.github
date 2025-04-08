@@ -7,7 +7,7 @@ Everything you can see in our repositories is licensed under the [`GNU Affero Ge
 
 *Have fun, keep legal.*  
 **Gott zur Ehr, dem Nächsten zur Wehr!**  
-(Translates to: God to honor, neighbor to defend. The motto of the German fire departments)
+(Translates to: To the glory of God and the protection of our neighbours. The motto of the German fire departments)
 
 ---
 
